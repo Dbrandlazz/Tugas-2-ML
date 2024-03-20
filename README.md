@@ -20,7 +20,7 @@ NPM : 2108107010052
 **Dataset yang dipakai**
 
 ### Support Vector Clasifier (SVC)
-Dataset dari kaggle [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
+Dataset dari kaggle (https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 
 
 informasi variabel
@@ -48,7 +48,7 @@ informasi variabel
 * wifi: Has wifi or not
   
 ### Support Vector Regresion (SVR)
-Dataset dari kaggle [[https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
+Dataset dari kaggle (https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 ](https://www.kaggle.com/datasets/mirichoi0218/insurance/data)
 Banyak faktor yang memengaruhi jumlah Anda membayar asuransi kesehatan berada di luar kendali Anda. Meskipun demikian, ada baiknya untuk memiliki pemahaman tentang apa itu.
 Berikut beberapa faktor yang mempengaruhi besarnya biaya premi asuransi kesehatan
